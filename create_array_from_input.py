@@ -1,6 +1,6 @@
 
 # create an array with integer from user input
-lst1 = []
+lst = []
 
 n = int (input("Enter number of elements : "))
 for i in range (0,n):
